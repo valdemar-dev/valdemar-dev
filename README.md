@@ -1,12 +1,23 @@
-### Hi there 👋
-I'm currently majoring in Web-Programming.
+# Valdemar
+Hello!  
+I'm a, 18 year old programming student from :flag_fi: Finland.  
+I'm currently majoring in **Full-Stack Web-Development**.  
+  
+Some of my passions include:  
+ - Learning
+ - Psychology
+ - Physics
+ - Philosophy
+ - Music
+ - Programming (lots of it)
+
 
 ## 📖 Languages
 ### JavaScript
 JS was the first language I learnt over 6 years ago now (I quickly regretted it).  
 I started doing just simple console applications, however I quickly moved to full-stack web applications.  
-My most recent project was in TypeScript and was a simple friend-finding app, akin to tinder.  
-It used NextJS, Postgres, Tailwind, and had a real-time chat feature using a custom Socket.io server that I hacked into Next.  
+My most recent project was in TypeScript and was a simple matchmaking app, akin to tinder.  
+It used NextJS, Postgres, Tailwind, Socket.io and much more.  
 **Note:** I've omitted HTML, CSS and TS here for brevity, but I know those too.  
 #### JS/TS Projects:
   - [Beta Version of the Matchmaking Website done as a Discord Bot](https://github.com/valdemar-dev/isolationism-match-bot)
