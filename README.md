@@ -25,7 +25,7 @@ I did not *finish* a game, because I realised my lack of graphics programming wa
 I started learning C around 2 months ago at the time of writing this, and it's honestly the best.  
 I chose C because OpenGL. (and I'd never tried full on functional programming either)  
 I will eventually make a simple Isometric 3D Survival game set in space using just C and OpenGL, however that's probably for next year.  
-#### C Projects:
+#### C/C++ Projects:
   - [Matrix-Matrix Multiplicator](https://github.com/valdemar-dev/matrix-multiplicator)
   - [Implementing the LearnOpenGL Book](https://github.com/valdemar-dev/learnopengl)
   
