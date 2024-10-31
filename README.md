@@ -10,6 +10,7 @@ The site used NextJS, Postgres, Tailwind, and had real-time chat using a custom 
 #### JS/TS Projects:
   - [Beta Version of the Matchmaking Website done as a Discord Bot](https://github.com/valdemar-dev/isolationism-match-bot)
   - [Helper Bot in TS for one of my Discord Servers](https://github.com/valdemar-dev/iso-helpy)
+  - [Super Rudimentary Password Manager That does actually encrypt your stuff](https://github.com/valdemar-dev/passmngr)
 
 ### Python
 Python was the second language I learnt, a little over 4 years ago. I never really got too into it.  
@@ -27,6 +28,6 @@ I chose C because OpenGL. (and I'd never tried full on functional programming ei
 I will eventually make a simple Isometric 3D Survival game set in space using just C and OpenGL, however that's probably for next year.  
 #### C/C++ Projects:
   - [Matrix-Matrix Multiplicator](https://github.com/valdemar-dev/matrix-multiplicator)
-  - [Implementing the LearnOpenGL Book](https://github.com/valdemar-dev/learnopengl)
+  - [Implementing the LearnOpenGL Book](https://github.com/valdemar-dev/learn-opengl)
   
 -# Please note that the majority of my currently deployed code is closed-source. However, as projects become obsolete, I tend to open-source them.
