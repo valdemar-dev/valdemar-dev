@@ -7,9 +7,9 @@ JS was the first language I learnt over 6 years ago now. I started doing just si
 however I quickly moved to full-stack web applications. My most recent project was in TypeScript and was a simple friend-finding app, akin to tinder.  
 The site used NextJS, Postgres, Tailwind, and had real-time chat using a custom Socket.io server that I hacked into Next.  
 **Note:** I've omitted HTML, CSS and TS here for brevity, but I of course know those too.  
-JS/TS Projects:
-  [Beta Version of the Matchmaking Website done as a Discord Bot](https://github.com/valdemar-dev/isolationism-match-bot)
-  [Helper Bot in TS for one of my Discord Servers](https://github.com/valdemar-dev/iso-helpy)
+#### JS/TS Projects:
+  - [Beta Version of the Matchmaking Website done as a Discord Bot](https://github.com/valdemar-dev/isolationism-match-bot)
+  - [Helper Bot in TS for one of my Discord Servers](https://github.com/valdemar-dev/iso-helpy)
 
 ### Python
 Python was the second language I learnt, a little over 4 years ago. I never really got too into it.  
@@ -25,8 +25,8 @@ I did not *finish* a game, because I realised my lack of graphics programming wa
 I started learning C around 2 months ago at the time of writing this, and it's honestly the best.  
 I chose C because OpenGL. (and I'd never tried full on functional programming either)  
 I will eventually make a simple Isometric 3D Survival game set in space using just C and OpenGL, however that's probably for next year.  
-C Projects:
-  [Matrix-Matrix Multiplicator](https://github.com/valdemar-dev/matrix-multiplicator)
-  [Implementing the LearnOpenGL Book](https://github.com/valdemar-dev/learnopengl)
+#### C Projects:
+  - [Matrix-Matrix Multiplicator](https://github.com/valdemar-dev/matrix-multiplicator)
+  - [Implementing the LearnOpenGL Book](https://github.com/valdemar-dev/learnopengl)
   
 -# Please note that the majority of my currently deployed code is closed-source. However, as projects become obsolete, I tend to open-source them.
