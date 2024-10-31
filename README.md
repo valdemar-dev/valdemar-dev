@@ -1,12 +1,13 @@
 ### Hi there 👋
 I'm currently majoring in Web-Programming.
 
-## Languages
+## 📖 Languages
 ### JavaScript
-JS was the first language I learnt over 6 years ago now. I started doing just simple console applications,  
-however I quickly moved to full-stack web applications. My most recent project was in TypeScript and was a simple friend-finding app, akin to tinder.  
-The site used NextJS, Postgres, Tailwind, and had real-time chat using a custom Socket.io server that I hacked into Next.  
-**Note:** I've omitted HTML, CSS and TS here for brevity, but I of course know those too.  
+JS was the first language I learnt over 6 years ago now (I quickly regretted it).  
+I started doing just simple console applications, however I quickly moved to full-stack web applications.  
+My most recent project was in TypeScript and was a simple friend-finding app, akin to tinder.  
+It used NextJS, Postgres, Tailwind, and had a real-time chat feature using a custom Socket.io server that I hacked into Next.  
+**Note:** I've omitted HTML, CSS and TS here for brevity, but I know those too.  
 #### JS/TS Projects:
   - [Beta Version of the Matchmaking Website done as a Discord Bot](https://github.com/valdemar-dev/isolationism-match-bot)
   - [Helper Bot in TS for one of my Discord Servers](https://github.com/valdemar-dev/iso-helpy)
