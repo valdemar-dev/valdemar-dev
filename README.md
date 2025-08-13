@@ -1,11 +1,5 @@
 # Valdemar
-Full stack developer of 6+ years.  
-My expertise is in full-stack development, creating rich and varied experiences for users.  
-
-## Elegance.JS
-For long I've felt that the field of web development was deeply flawed.  
+Hey, I'm Valdemar. I've been programming since 2017.  
   
-Elegance is my attempt at fixing it.  
-It's an open-source, compiled, fully typescript, minimally dependent, highly opinionated, and most importantly fast, full-stack web-framework.  
-
-https://elegance.js.org/
+You can learn more about me here:  
+https://val.sh/  
